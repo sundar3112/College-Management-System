@@ -1,0 +1,2 @@
+# College-Management-System
+This College Management System consists of four different aspects, i.e., College, Hostel, Student and Faculty. Each consists of different modules and implemented in a file based manner, to implement protection and security. The files are of the binary form and cannot be opened directly, unless and until accessed by a C++ programmer. Maintains a level of abstraction as well as Data Hiding. Can be implemented on a large scale with a front end based system.
